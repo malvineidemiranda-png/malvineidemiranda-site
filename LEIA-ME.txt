@@ -1,0 +1,18 @@
+SITE MALVINEIDE MIRANDA
+
+Arquivos:
+- index.html: página principal
+- style.css: visual responsivo
+- script.js: menu mobile
+
+Antes de publicar:
+1. Troque os blocos FOTO por fotos oficiais.
+2. Preencha a biografia oficial.
+3. Substitua os textos de propostas pelos textos oficiais da campanha.
+4. Coloque os links reais de Instagram, Facebook e WhatsApp.
+5. Confira as informações jurídicas/eleitorais e a identificação obrigatória antes de publicar.
+
+Domínio sugerido:
+malvineidemiranda.infnets.org
+
+O endereço de e-mail malvineidemiranda@infnets.org pode continuar no Google Workspace; não altere os registros MX ao configurar o site.
